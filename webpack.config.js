@@ -4,7 +4,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'build'),
-    publicPath: 'Mon-cv',
+    publicPath: 'mon-cv-gh-pages',
     filename: 'bundle.js',
   },
   module: {
