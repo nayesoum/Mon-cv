@@ -4,6 +4,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'build'),
+    publicPath: 'Mon-cv',
     filename: 'bundle.js',
   },
   module: {
