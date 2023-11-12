@@ -1,7 +1,7 @@
 {
   "name": "mon-cv-react",
   "version": "0.1.0",
-  "homepage": "https://nayesoum.github.io/mon-cv-gh-pages",
+  "homepage": "https://nayesoum.github.io/Mon-cv",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
